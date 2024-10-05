@@ -1,1 +1,1 @@
-# starter
+# JavaScript Pig Game
